@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+}
+div{
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+}
+h4 {
+    padding-top: 20px;
+    padding-left: 30px;
+    background-color:white;
+    font-family: 'Mulish', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 150px;
+    padding-top: 100px;
+    background-color: black;
+    color:white;
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+p{
+    font-family: 'Mulish', sans-serif;
+    color:black;
+}
+.quote {
+    color:orangered;
+    font-family: 'Mulish', sans-serif;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+    padding-top: 20px;
+}
+h3{
+    font-family: 'Mulish', sans-serif;
+    
+}
+.pic{
+    align-items: center;
+    font-size: small;
+   
+}
